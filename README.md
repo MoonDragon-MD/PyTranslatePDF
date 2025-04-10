@@ -26,6 +26,8 @@ For camouflage I set that the color of the rectangle is calculated based on the 
 
 Here is an example:
 
+![alt text](https://github.com/MoonDragon-MD/PyTranslatePDF/blob/main/img/Comparazione.png?raw=true)
+
 ## Dependencies
 - Python installed on the system, as a minimum python version 3.8
 - sudo apt install fonts-dejavu       (with Linux)
