@@ -55,4 +55,5 @@ Direct start Windows          python PyTranslatePDF_GUI.py
 
 Direct start Windows          python PyTranslatePDF.py name.pdf name_translate.pdf en it [font_customized] [translate_locally_path] (these last two are optional)
 
-## Screenshots
+## Screenshot
+![alt text](https://github.com/MoonDragon-MD/PyTranslatePDF/blob/main/img/Schermata.jpg?raw=true)
