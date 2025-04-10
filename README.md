@@ -40,7 +40,7 @@ Here is an example:
 - ```pip install pymupdf-fonts```       (To increase the available fonts without going to change the font mapping)
 
 ## Installation
-GNU/Linux     ./install_PyTranslatePDF.sh (Adds shortcut with icon to main menu)
+GNU/Linux     ```./install_PyTranslatePDF.sh``` (Adds shortcut with icon to main menu)
 
 ## Usage
 Portable GNU/Linux            ```StartUbuntu.sh``` (double-click and then click run) or in terminal ```./StartUbuntu.sh```
