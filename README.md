@@ -51,7 +51,7 @@ Direct start GUI GNU/Linux    ```python3 PyTranslatePDF_GUI.py```
 
 Direct start GNU/Linux        ```python3 PyTranslatePDF.py name.pdf name_translate.pdf en it [font_customized] [translate_locally_path]``` (these last two are optional)
 
-Direct start Windows          ```python PyTranslatePDF_GUI.py```
+Direct start GUI Windows      ```python PyTranslatePDF_GUI.py```
 
 Direct start Windows          ```python PyTranslatePDF.py name.pdf name_translate.pdf en it [font_customized] [translate_locally_path]``` (these last two are optional)
 
